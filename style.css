@@ -1,0 +1,36 @@
+*{
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.card{
+    display: flex;
+    margin: 100px auto;
+    min-width:400px;
+    max-width: 600px;
+    background-color: a3b18a;
+    padding: 20px;
+    justify-content: space-around;
+    filter: drop-shadow(0 0 .9rem #00000035);
+}
+
+.portrait{
+    width: 200px;
+}
+
+.info{
+    text-align: center;
+
+}
+
+.border{
+    border-bottom: 10px solid black;
+}
+
+h3{
+    text-transform: uppercase;
+}
+
+.emoji{
+    font-size: 42px;
+}
